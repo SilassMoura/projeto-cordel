@@ -6,7 +6,7 @@
 Projeto construído no cursoemvideo do professor
 Gustavo Guanabara.
 
-[Acesse aqui] (https://silassmoura.github.io/projeto-cordel/)
+[Acesse aqui](https://silassmoura.github.io/projeto-cordel/) para acessar meu projeto.😎💻🖖🏻
 
 ## Tecnologias:
 -HTML
