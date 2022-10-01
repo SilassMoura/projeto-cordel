@@ -1,6 +1,6 @@
 # Cordel Moderno
 
-![preview](../projeto-cordel/github/preview.png)
+![preview](./.github/preview.png)
 
 
 Projeto construído no cursoemvideo do professor
