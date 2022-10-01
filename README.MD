@@ -2,7 +2,7 @@
 
 ![preview](../projeto-cordel/github/preview.png)
 
-> 
+
 Projeto construído no cursoemvideo do professor
 Gustavo Guanabara.
 
@@ -15,3 +15,4 @@ Gustavo Guanabara.
 
 ## Contato
 silasaugusto23@gmail.com
+@silassmoura
